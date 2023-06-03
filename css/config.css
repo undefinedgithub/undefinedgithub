@@ -1,0 +1,46 @@
+.main
+{
+	width:1250px; 
+	height:250px; 
+	background:#037BC8; 
+	border-radius:20px 20px 1px 1px;
+	margin-left: 190px; /*Сдвиг к центру*/
+	margin-top: 19px; /*Сдвиг вниз*/
+}
+
+.one
+{
+	width:1250px; 
+	height:500px; 
+	background:#0000ff; 
+	margin-left: 190px;
+}
+
+.two
+{
+	width:800px; 
+	height:500px; 
+	background:#4169e1;
+	margin-left: 190px;
+}
+
+.three
+{
+	position:relative; 
+	bottom:500px; 
+	width:450px; 
+	left:800px; 
+	height:500px; 
+	background:#1e90ff;
+	margin-left: 190px;
+}
+
+.four
+{
+	position:relative; 
+	bottom:500px; 
+	width:1250px; 
+	height:500px; 
+	background:#00bfff;
+	margin-left: 190px;
+}
