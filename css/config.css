@@ -1,46 +1,49 @@
-.main
+.div_n1
 {
-	width:1250px; 
-	height:250px; 
-	background:#037BC8; 
-	border-radius:20px 20px 1px 1px;
-	margin-left: 165px; /*Сдвиг к центру*/
-	margin-top: 19px; /*Сдвиг вниз*/
+	width:1250px;
+	height:300px;
+	background:#808080;
+	border-radius:10px 10px 10px 10px;
+	border:5px solid black;
 }
 
-.one
+.text
 {
-	width:1250px; 
-	height:500px; 
-	background:#0000ff; 
-	margin-left: 165px;
+	color:white;
+	text-align:center;
+	font-size:50px;
 }
 
-.two
+.text2
 {
-	width:800px; 
-	height:500px; 
-	background:#4169e1;
-	margin-left: 165px;
+	
+	
+	text-align:center;
+	
+	
 }
 
-.three
+.div_n2
 {
-	position:relative; 
-	bottom:500px; 
-	width:450px; 
-	left:800px; 
-	height:500px; 
-	background:#1e90ff;
-	margin-left: 165px;
+	width:1250px;
+	height:auto;
+	background:#00FFFF;
+	border:5px solid black;
 }
 
-.four
+.img
 {
-	position:relative; 
-	bottom:500px; 
-	width:1250px; 
-	height:500px; 
-	background:#00bfff;
-	margin-left: 165px;
+	width:500px;
+	height:500px;
+	position:relative;
+	left:350px;
+}
+
+.div_for_text
+{
+	width:700px;
+	height:auto;
+	word-wrap:break-word;
+	position:relative;
+	left:350px;
 }
